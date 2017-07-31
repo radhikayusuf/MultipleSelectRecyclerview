@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultipleSelectRecycler</string>
+    <string name="dummy_title">index 1</string>
+    <string name="action_toast">Action open detail</string>
+    <string name="delete">Delete</string>
+    <string name="selected_item">Selected %s item</string>
+</resources>
